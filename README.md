@@ -1,2 +1,2 @@
-# LAB_13
+# SelectVariables
 ## Algoritimo que permite selecionar variáveis.
